@@ -8,6 +8,6 @@
  * @license www.projects.directcode.net/community/license
  */
 
-
+echo 'Hello from development';
 
 ?>
