@@ -8,8 +8,7 @@
  * @license www.projects.directcode.net/community/license
  */
 
-
-
+echo 'a';
 
 
 
